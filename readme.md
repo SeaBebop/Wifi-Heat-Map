@@ -30,7 +30,7 @@ Here are the captured screenshots (click to enlarge):
 *Blue = low (<30–100 ms), red = high/spiky (>200 ms)*
 
 **Interference**  
-![Interference Heatmap](path/to/interference-heatmap.png)  
+![image](https://github.com/SeaBebop/Wifi-Heat-Map/blob/main/Wifi%20Heatmap%203-17-2026/WiFi%20Heatmap%20Interference%20Amount.jpg?raw=true)
 *Mostly clean (blue), minimal neighbor overlap—not the main issue*
 
 ### Recommendations / Next Steps
