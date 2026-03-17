@@ -22,11 +22,11 @@ Here are the captured screenshots (click to enlarge):
 *Red = strong (-45 dBm), blue = weak (-85 dBm), gray = no signal*
 
 **Link Speed (Mbps)**  
-![Speed Heatmap](path/to/speed-heatmap.png)  
+![image](https://github.com/SeaBebop/Wifi-Heat-Map/blob/main/Wifi%20Heatmap%203-17-2026/WiFi%20Heatmap%20Speed.jpg?raw=true)
 *Blue = fast (50–200+), red = slow (<50 or drops)*
 
 **Ping Latency (ms)**  
-![Ping Heatmap](path/to/ping-heatmap.png)  
+![image](https://github.com/SeaBebop/Wifi-Heat-Map/blob/main/Wifi%20Heatmap%203-17-2026/WiFi%20Heatmap%20Ping.jpg?raw=true) 
 *Blue = low (<30–100 ms), red = high/spiky (>200 ms)*
 
 **Interference**  
