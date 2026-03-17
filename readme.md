@@ -1,6 +1,6 @@
 ## WiFi Coverage Heatmap Survey
 
-Quick manual site survey of my home network using a free WiFi analyzer app (walkaround method). Data is approximate/limited but highlights real attenuation issues from walls and placement.
+Quick manual site survey of my home network using a free WiFi analyzer app (walkaround method). Data is approximate/limited but highlights real attenuation issues from walls and placement. The floorplan was created manually with canva.
 
 ### Setup
 - Access Point: Verizon Router
