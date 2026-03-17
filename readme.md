@@ -1,1 +1,40 @@
+## WiFi Coverage Heatmap Survey
 
+Quick manual site survey of my home network using a free WiFi analyzer app (walkaround method). Data is approximate/limited but highlights real attenuation issues from walls and placement.
+
+### Setup
+- Access Point: [Your router model or "Single AP in entry hallway"]
+- Bands tested: Primarily 5 GHz (worse penetration) + some 2.4 GHz notes
+- Method: Walked the floor plan, recorded signal (dBm), speed (Mbps), ping (ms), interference at ~30–50 points
+- Tool: [Name of your app, e.g., WiFi Analyzer (Android)]
+
+### Key Findings
+- Strong coverage in central living/kitchen area (close to AP): -45 to -65 dBm, 50–200+ Mbps
+- Drops in kitchen & bathroom: Often -70 to -85 dBm, speed <50 Mbps, ping spikes >100 ms
+- Main cause: Attenuation through 1–3 interior walls + distance (not heavy neighbor interference)
+- Right bedroom & edges: Marginal (yellow zones), left bedrooms better due to fewer obstacles
+
+### Heatmaps
+Here are the captured screenshots (click to enlarge):
+
+**Signal Strength (dBm)**  
+![Signal Heatmap](path/to/signal-heatmap.png)  
+*Red = strong (-45 dBm), blue = weak (-85 dBm), gray = no signal*
+
+**Link Speed (Mbps)**  
+![Speed Heatmap](path/to/speed-heatmap.png)  
+*Blue = fast (50–200+), red = slow (<50 or drops)*
+
+**Ping Latency (ms)**  
+![Ping Heatmap](path/to/ping-heatmap.png)  
+*Blue = low (<30–100 ms), red = high/spiky (>200 ms)*
+
+**Interference**  
+![Interference Heatmap](path/to/interference-heatmap.png)  
+*Mostly clean (blue), minimal neighbor overlap—not the main issue*
+
+### Recommendations / Next Steps
+- Reposition AP to central living room ceiling/high wall for better omnidirectional coverage.
+- Consider mesh nodes (one in hallway/kitchen) if drops persist.
+- Test 2.4 GHz fallback for bathroom/kitchen reliability.
+- Future: Re-run after changes + try a tool like [wifi-heatmapper](https://github.com/hnykda/wifi-heatmapper) for more precise overlays.
