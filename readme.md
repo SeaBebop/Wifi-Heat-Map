@@ -18,7 +18,7 @@ Quick manual site survey of my home network using a free WiFi analyzer app (walk
 Here are the captured screenshots (click to enlarge):
 
 **Signal Strength (dBm)**  
-![Signal Heatmap](path/to/signal-heatmap.png)  
+![image](https://github.com/SeaBebop/Wifi-Heat-Map/blob/main/Wifi%20Heatmap%203-17-2026/WiFi%20Heatmap%20Signal.jpg?raw=true)
 *Red = strong (-45 dBm), blue = weak (-85 dBm), gray = no signal*
 
 **Link Speed (Mbps)**  
