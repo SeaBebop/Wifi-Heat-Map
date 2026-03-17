@@ -9,10 +9,11 @@ Quick manual site survey of my home network using a free WiFi analyzer app (walk
 - Tool: Wifi Heatmap by Wi-Fi Solutions
 
 ### Key Findings
-- Strong coverage in central living/kitchen area (close to AP): -45 to -65 dBm, 50–200+ Mbps
-- Drops in kitchen & bathroom: Often -70 to -85 dBm, speed <50 Mbps, ping spikes >100 ms
+- Strong coverage in central living/kitchen area (close to AP): -45 to -65 dBm, constant 200+ Mbps
+- Drops in kitchen & bathroom: Often -70 to -85 dBm, speed 200+ Mbps, ping spikes >1 ms
 - Main cause: Attenuation through 1–3 interior walls (not heavy neighbor interference) 
 - Right bedroom & edges: Marginal (yellow zones), left bedrooms better due to fewer obstacles and distance
+- Device behavior differences: Lower signal areas lost connection with Wifi after a certain distance
 
 ### Heatmaps
 Here are the captured screenshots (click to enlarge):
