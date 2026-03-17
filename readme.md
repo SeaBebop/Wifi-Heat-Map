@@ -4,8 +4,8 @@ Quick manual site survey of my home network using a free WiFi analyzer app (walk
 
 ### Setup
 - Access Point: Verizon Router
-- Bands tested: Primarily 5 GHz 
-- Method: Walked the floor plan, recorded signal (dBm), speed (Mbps), ping (ms), interference at ~30–50 points
+- Bands tested: 5 GHz 
+- Method: Walked the floor plan, recorded signal (dBm), speed (Mbps), ping (ms), 9+ interfering networks 
 - Tool: Wifi Heatmap by Wi-Fi Solutions
 
 ### Key Findings
