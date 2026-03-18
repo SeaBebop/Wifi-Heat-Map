@@ -32,7 +32,7 @@ Here are the captured screenshots (click to enlarge):
 
 **Interference**  
 ![image](https://github.com/SeaBebop/Wifi-Heat-Map/blob/main/Wifi%20Heatmap%203-17-2026/WiFi%20Heatmap%20Interference%20Amount.jpg?raw=true)
-*Alot of interferring networks, yet these red areas have the best singals. 5ghz is preventing interference issues*
+*Alot of interferring networks, yet these red areas have the best signals. 5ghz is preventing interference issues*
 
 ### Recommendations / Next Steps
 - Reposition AP to central living room ceiling/high wall for better omnidirectional coverage.
